@@ -29,6 +29,7 @@
 
 ## Browser Extensions
 
+- [WebMCP Explorer](https://github.com/MicrosoftEdge/webmcp-labs/tree/main/webmcp-explorer) - Browser extension for inspecting and executing WebMCP tools, with an autonomous agent loop and support for multiple LLM providers.
 - [igrigorik/AgentBoard](https://github.com/igrigorik/AgentBoard) - AI switchboard extension by [@igrigorik](https://github.com/igrigorik) with multi-provider LLM sidebar (OpenAI, Anthropic, Google, Ollama), scriptable WebMCP tools running in page context, remote MCP server support, and command templates.
 - [amedina/agentic-web-learning-tool](https://github.com/amedina/agentic-web-learning-tool) - Chrome extension framework for agentic AI workflows, visual workflow composition, MCP server integration, and Chrome built-in AI playground.
 - [WebMCP-org/char-plugin](https://github.com/WebMCP-org/char-plugin) - Claude Code plugin that installs Char embeddable AI agent, configures WebMCP servers, [registers tools](https://github.com/webmachinelearning/webmcp/issues/15), and provides `/char:setup` wizard.
